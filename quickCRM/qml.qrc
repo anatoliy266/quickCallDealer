@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Authorization.qml</file>
+        <file>arrow.png</file>
+        <file>arrowrev.png</file>
+        <file>astF.jpg</file>
+        <file>astF.png</file>
+        <file>calendar.png</file>
+        <file>fb.jpg</file>
+        <file>fbAster.jpg</file>
+        <file>fbAsterDel.jpg</file>
+        <file>fbHist.jpg</file>
+        <file>fbUser.jpg</file>
+        <file>phone.png</file>
+        <file>phoneLogo.ico</file>
+        <file>phoneLogo.png</file>
+        <file>s.png</file>
+        <file>sArr.png</file>
+        <file>MainWindow.qml</file>
+        <file>menu_icon.png</file>
+        <file>LoginPwd.qml</file>
+        <file>PreLoad.qml</file>
+        <file>notinline.png</file>
+        <file>edit.png</file>
+        <file>confirm.png</file>
+    </qresource>
+    <qresource prefix="/mainwin">
+        <file>BigUserInfoSpase.qml</file>
+        <file>CallSpase.qml</file>
+        <file>SmallUserInfoSpase.qml</file>
+        <file>history.jpg</file>
+        <file>stats.png</file>
+    </qresource>
+    <qresource prefix="/content">
+        <file>CallsContent.qml</file>
+        <file>HistoryContent.qml</file>
+        <file>StatsContent.qml</file>
+        <file>orgIm.png</file>
+        <file>playIcon.png</file>
+        <file>Loading.qml</file>
+        <file>WaitFor.qml</file>
+        <file>headphone.png</file>
+    </qresource>
+</RCC>
